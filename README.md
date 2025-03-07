@@ -20,4 +20,8 @@
 * INGENIERÍA DE CONTROL MODERNA (**OGATA**)
 ### SOFTWARE
 * MATLAB
-* SIMULADOR DE SEGUIMIENTO 
+* SIMULADOR DE SEGUIMIENTO
+  
+### REFERENCIA DE LOS LIBROS 
+* https://dademuchconnection.files.wordpress.com/2017/07/dinamica_de_sistemas.pdf
+* https://ingenierovizcaino.com/material/libros/sd/ingenieria-de-control-moderna-ogata-5ed.pdf
