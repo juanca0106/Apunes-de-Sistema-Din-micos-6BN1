@@ -1,5 +1,5 @@
 # Apunes-de-SistemaS-DinAmicos-6BN1
-## en los siguientes repositorias encontraras resumen claros de las clases de sistemas dinamicos  
+## En los siguientes repositorios encontrarás resumen claros de las clases de sistemas dinámicos  
 ## LUNES: 03/02/2025
 ### CONTENDOS DE LA ASIGNATURA
 * RESUMEN DE ECUACIONES DIFERENCIALES
@@ -13,6 +13,11 @@
 * ÁLGEBRA DE BLOQUES
 * LA RESPUESTA TEMPORAL 
 ### METODOLOGÍA 
+![image](https://github.com/user-attachments/assets/cc7c6d43-7267-4c00-8ae7-4ef155b86732)
 
-**A**
-
+### LIBROS RECOMENDADOS 
+* SISTEMAS DINAMICOS (**OGATA**)
+* INGENIERÍA DE CONTROL MODERNA (**OGATA**)
+### SOFTWARE
+* MATLAB
+* SIMULADOR DE SEGUIMIENTO 
