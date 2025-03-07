@@ -1,6 +1,18 @@
-# Apunes-de-Sistema-Din-micos-6BN1
-##
-###
-####
+# Apunes-de-SistemaS-DinAmicos-6BN1
+## en los siguientes repositorias encontraras resumen claros de las clases de sistemas dinamicos  
+## LUNES: 03/02/2025
+### CONTENDOS DE LA ASIGNATURA
+* RESUMEN DE ECUACIONES DIFERENCIALES
+* SOLUCIÓN POR TRANSFORMADA DE LA PLACE
+* MODELAMIENTO DE SISTEMAS DINÁMICOS
+* SISTEMAS ELÉCTRICOS (RLC)
+* SISTEMAS HIDRÁULICOS (ALMACENAMIENTO DE TANQUES)
+* SISTEMAS TÉRMICOS (HORNO)
+* FUNCIONES DE TRANSFERENCIA
+* DIAGRAMA DE BLOQUES
+* ÁLGEBRA DE BLOQUES
+* LA RESPUESTA TEMPORAL 
+### METODOLOGÍA 
+
 **A**
-en los siguientes repositorias encontraras resumen claros de las clases de sistemas dinamicos  
+
