@@ -38,7 +38,7 @@ Aquí, a=4, b=3, entonces:
 >>
 
 #### **tabla de tranformada de la place** 
-link: file:///C:/Users/camilo/Downloads/APznzaY5pgcccYImD9mekxJ739HC3cSdjhIi7KBLmd73aBdLtcQAm_rQUJgmgXeBAEjzes5-Wv8o6unc2vXnoC1l6df7Im2aPhKK4Glerkuw5I5FgSL27ecuNIXkmMTJ0bFxd68peEQhBr1i9tWJpay9P5tY-TrJ0ua2zmSMgjaRPHbsBXEL2vM0RCYETcAKJPMVZda5ODfo5KuoK5E.pdf 
+link: https://www.cartagena99.com/recursos/alumnos/apuntes/Tablas%20de%20Transformadas%20de%20Laplace%20(I).pdf 
 
 ------------------------------------------------------------------------------------
  
