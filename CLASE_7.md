@@ -18,6 +18,7 @@ Un sistema dinámico es cualquier cosa que evoluciona con el tiempo y cuyo compo
 * El movimiento de un robot
 
 ![image](https://github.com/user-attachments/assets/80ad7ec3-9b67-4f98-aefa-a0940f7c1f55)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 >* 🧠 **¿Por qué usamos ecuaciones diferenciales?**
  Porque describen cómo cambia una cantidad respecto al tiempo. En sistemas dinámicos, usamos estas ecuaciones para modelar:
@@ -33,7 +34,7 @@ donde:
 * Métodos analíticos: separación de variables, transformada de Laplace, etc.
 * Métodos numéricos: Euler, Runge-Kutta (para computadora)
 * Transformadas: pasar al dominio de s para trabajar con algebra en lugar de derivadas
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### **Metodología de solución**
 * Aplicar tansformada de LaPlace a toda la ecuación (término a término), de tal manera que se obtenga una ecuación algebráica en el dominio de s
 * Despejar la variable que representa la salida de la ecuación
@@ -81,7 +82,69 @@ recordando que:tranformada de derivadas.
    
       ![image](https://github.com/user-attachments/assets/49c9e6a9-b612-4a9d-ae29-0b4f0bd445fb)
 
-   
+     * Expandimos:
+
+       ![image](https://github.com/user-attachments/assets/2fc024e9-63a7-4deb-97f8-8c543c5820f9)
+
+
+    * Juntamos todo:
+
+      ![image](https://github.com/user-attachments/assets/931665e1-f774-4cc0-bc63-441764bac4a2)
+
+    *Agrupamos: 
+
+    ![image](https://github.com/user-attachments/assets/9b792c99-f7dd-4082-b380-d2e65b1e93ce)
+
+     * Ahora:
+
+       ![image](https://github.com/user-attachments/assets/eb1ca958-471e-4683-8e61-f4216346a37b)
+
+    * Entonces:
+
+      ![image](https://github.com/user-attachments/assets/bd5124b8-27f4-4945-ab7d-2527c6f063e5)
+
+     * 3. segunda parte :
+
+           ![image](https://github.com/user-attachments/assets/f5c3ccaa-5fd4-4189-b22f-e48b424cc096)
+
+          *Esto lo podemos separar directamente:
+
+          ![image](https://github.com/user-attachments/assets/c5daf2b0-0334-41fa-9bce-5710d328a6e3)
+
+  -------------------------------------------------------------------------------------------------------------------------------------------        
+    🧠 Ahora sumamos todo:
+
+  ![image](https://github.com/user-attachments/assets/4a902abd-4f82-47c0-8b17-4584d5db0a6c)
+
+
+  ![image](https://github.com/user-attachments/assets/0b0d75bd-33dc-428c-85f3-62e8923c14c6)
+
+
+  * entonces:
+
+    ![image](https://github.com/user-attachments/assets/fc871b90-dfb9-4f6a-9e7d-33ec8748b6f3)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+      * 4. Aplicamos la transformada inversa de Laplace 
+      
+      * recordar: 
+      ![image](https://github.com/user-attachments/assets/78098220-e90a-4501-bd71-93ffbf77f6ee)
+      
+
+       ![image](https://github.com/user-attachments/assets/378e65a2-d721-4eb4-91f8-bc4831c5df63)
+
+       * solucion final 
+
+![image](https://github.com/user-attachments/assets/843ad351-64db-4770-8c7c-2d82270e7322)
+
+
+
+          
+
+
+
+
    
     
 
