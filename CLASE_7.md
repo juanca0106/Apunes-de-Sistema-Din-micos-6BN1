@@ -20,6 +20,7 @@ Un sistema dinámico es cualquier cosa que evoluciona con el tiempo y cuyo compo
 ![image](https://github.com/user-attachments/assets/80ad7ec3-9b67-4f98-aefa-a0940f7c1f55)
 
 🧠 ¿Por qué usamos ecuaciones diferenciales?
+ Porque describen cómo cambia una cantidad respecto al tiempo. En sistemas dinámicos, usamos estas ecuaciones para modelar:
 
 ![image](https://github.com/user-attachments/assets/53bb8dca-1345-44e5-9372-9ae948ab1b68)
 
