@@ -136,47 +136,7 @@ recordando que:tranformada de derivadas.
 
   # codigo del ejemplo 1
 
- >* % Solución simbólica de la EDO
-syms x(t)
 
-% Definimos la ecuación diferencial
-eqn = diff(x, t, 2) + 4*diff(x, t) + 4*x == 5;
-
-% Condiciones iniciales
-Dx = diff(x, t);      % Guarda la primera derivada
-cond1 = x(0) == 1;
-cond2 = Dx(0) == 0;
-
-% Resolver con dsolve
-sol = dsolve(eqn, [cond1, cond2]);
-
-% Mostrar resultado
-disp('Solución analítica:')
-pretty(sol)
-
-%% Solución numérica%%  
-% Definimos el intervalo de tiempo
-tspan = [0 10];
-
-% Condiciones iniciales: [x(0); x'(0)]
-x0 = [1; 0];
-
-% Ecuación diferencial como sistema de primer orden
-% x1 = x, x2 = dx/dt
-% dx1/dt = x2
-% dx2/dt = 5 - 4*x2 - 4*x1
-
-f = @(t, x) [x(2); 5 - 4*x(2) - 4*x(1)];
-
-% Resolver con ode45
-[t, x] = ode45(f, tspan, x0);
-
-% Graficar
-plot(t, x(:,1), 'LineWidth', 2)
-xlabel('Tiempo (t)')
-ylabel('x(t)')
-title('Solución numérica de la EDO: \ddot{x} + 4\dot{x} + 4x = 5')
-grid on 
 
 
       
