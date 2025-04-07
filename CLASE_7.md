@@ -15,6 +15,7 @@ Un sistema dinámico es cualquier cosa que evoluciona con el tiempo y cuyo compo
 
 ![image](https://github.com/user-attachments/assets/4e0c3a40-15e3-449c-9a3b-dff242a68ef4)
 
-* El crecimiento de una población
 * El movimiento de un robot
+
+![image](https://github.com/user-attachments/assets/80ad7ec3-9b67-4f98-aefa-a0940f7c1f55)
 
