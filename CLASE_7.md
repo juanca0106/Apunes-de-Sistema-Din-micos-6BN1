@@ -64,6 +64,21 @@ recordando que:tranformada de derivadas.
 
     ![image](https://github.com/user-attachments/assets/ecc3730f-d8ee-4c30-b6f3-e29974490eb0)
 
+  * 5: resolvemos para implementar tranformada de laplace
+    * 1. Separar en fracciones parciales:
+
+         ![image](https://github.com/user-attachments/assets/58879c6c-2614-4bdf-a3c4-3f9d6960cc0e)
+
+    * 2. Primera parte:
+
+         ![image](https://github.com/user-attachments/assets/0b723156-2ba5-4149-99c6-70e35f858624)
+
+         Esta se resuelve con fracciones parciales. Sea:
+    
+    * ![image](https://github.com/user-attachments/assets/ca3fb782-2590-4a53-8fd2-9f755e2a5129)
+   
+    * 
+
 
 
 
