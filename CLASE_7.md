@@ -35,3 +35,6 @@ donde:
 * Transformadas: pasar al dominio de s para trabajar con algebra en lugar de derivadas
 
 ### **Metodología de solución**
+* Aplicar tansformada de LaPlace a toda la ecuación (término a término), de tal manera que se obtenga una ecuación algebráica en el dominio de s
+* Despejar la variable que representa la salida de la ecuación
+* Aplicar transformada inversa de LaPlace a la expression obtenida para obtener la solución en el dominio del tiempo
