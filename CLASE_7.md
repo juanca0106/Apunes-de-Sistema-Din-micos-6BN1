@@ -32,6 +32,6 @@ donde:
 >*  🧰 Herramientas que usamos para resolver
 * Métodos analíticos: separación de variables, transformada de Laplace, etc.
 * Métodos numéricos: Euler, Runge-Kutta (para computadora)
-*Transformadas: pasar al dominio de s para trabajar con algebra en lugar de derivadas
+* Transformadas: pasar al dominio de s para trabajar con algebra en lugar de derivadas
 
 
