@@ -51,7 +51,8 @@ recordando que: la tranformada de la derivada
 
 ![image](https://github.com/user-attachments/assets/45c88648-be7e-4135-a9ec-b80ed4b313a0)
 
-* 2: Sustituimos condiciones iniciales:  ![image](https://github.com/user-attachments/assets/35651296-7d00-4581-a6ba-3ddbebbcead9)
+* 2: Sustituimos condiciones iniciales:
+*  ![image](https://github.com/user-attachments/assets/35651296-7d00-4581-a6ba-3ddbebbcead9)
 
   
 
