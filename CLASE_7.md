@@ -5,8 +5,12 @@
 
 >* 🔑 **Solución ecuaciones diferenciales**:
 Un sistema dinámico es cualquier cosa que evoluciona con el tiempo y cuyo comportamiento puede describirse con ecuaciones (usualmente diferenciales).
-Ejemplos:
+
+💡 Ejemplos:
 * Un resorte con masa (sistema masa-resorte-amortiguador)
+
+  ![image](https://github.com/user-attachments/assets/4c5b5ece-787e-4149-ba5f-9912b63fdff2)
+
 * El voltaje y corriente en un circuito RLC
 * El crecimiento de una población
 * El movimiento de un robot
