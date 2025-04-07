@@ -28,3 +28,10 @@ donde:
 * x(t): estado del sistema (posición, velocidad, temperatura, etc.)
 * u(t): entrada o control (fuerza, voltaje, etc.)
 * f: describe la dinámica del sistema
+
+>*  🧰 Herramientas que usamos para resolver
+* Métodos analíticos: separación de variables, transformada de Laplace, etc.
+* Métodos numéricos: Euler, Runge-Kutta (para computadora)
+*Transformadas: pasar al dominio de s para trabajar con algebra en lugar de derivadas
+
+
