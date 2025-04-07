@@ -43,17 +43,28 @@ donde:
 
 ![image](https://github.com/user-attachments/assets/f9b3d49a-becb-4020-9970-ea2cc47e6cd9)
 
-* 1: Aplicamos transformada de Laplace 
+* 1: Aplicamos transformada de Laplace.
 
 ![image](https://github.com/user-attachments/assets/7c63f985-39d7-4161-be82-e1a7716631dc)
 
-recordando que: la tranformada de la derivada 
+recordando que: la tranformada de la derivada.
 
 ![image](https://github.com/user-attachments/assets/45c88648-be7e-4135-a9ec-b80ed4b313a0)
 
-* 2: Sustituimos condiciones iniciales:
+* 2: Sustituimos condiciones iniciale.
 
   ![image](https://github.com/user-attachments/assets/608f93fe-c749-469c-83eb-06c296c6db51)
+
+
+* 3: Agrupamos términos.
+
+  ![image](https://github.com/user-attachments/assets/2c9de97a-72f9-43c1-970d-a8311f04171b)
+
+  * 4: Despejamos X(s)
+
+    ![image](https://github.com/user-attachments/assets/ecc3730f-d8ee-4c30-b6f3-e29974490eb0)
+
+
 
 
   
