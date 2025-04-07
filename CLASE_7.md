@@ -47,7 +47,7 @@ donde:
 
 ![image](https://github.com/user-attachments/assets/7c63f985-39d7-4161-be82-e1a7716631dc)
 
-recordando que: la tranformada de la derivada.
+recordando que:tranformada de derivadas.
 
 ![image](https://github.com/user-attachments/assets/45c88648-be7e-4135-a9ec-b80ed4b313a0)
 
