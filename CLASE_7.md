@@ -1,7 +1,7 @@
 # CORTE 2 
 ## CLASE 7
 ## 10/03/2025
-### Solución ecuaciones diferenciales
+### **Solución ecuaciones diferenciales**
 
 >* 🔑 **Solución ecuaciones diferenciales**:
 Un sistema dinámico es cualquier cosa que evoluciona con el tiempo y cuyo comportamiento puede describirse con ecuaciones (usualmente diferenciales).
@@ -34,4 +34,4 @@ donde:
 * Métodos numéricos: Euler, Runge-Kutta (para computadora)
 * Transformadas: pasar al dominio de s para trabajar con algebra en lugar de derivadas
 
-
+### **Metodología de solución**
