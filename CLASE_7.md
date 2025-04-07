@@ -77,7 +77,13 @@ recordando que:tranformada de derivadas.
     
     * ![image](https://github.com/user-attachments/assets/ca3fb782-2590-4a53-8fd2-9f755e2a5129)
    
-    * 
+    * Multiplicamos todo por :  ![image](https://github.com/user-attachments/assets/bbf775cb-6382-4e7b-bbfe-72535d7efc23)
+   
+      ![image](https://github.com/user-attachments/assets/49c9e6a9-b612-4a9d-ae29-0b4f0bd445fb)
+
+   
+   
+    
 
 
 
