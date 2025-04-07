@@ -38,3 +38,10 @@ donde:
 * Aplicar tansformada de LaPlace a toda la ecuación (término a término), de tal manera que se obtenga una ecuación algebráica en el dominio de s
 * Despejar la variable que representa la salida de la ecuación
 * Aplicar transformada inversa de LaPlace a la expression obtenida para obtener la solución en el dominio del tiempo
+
+💡 Ejemplo 1 : 
+
+![image](https://github.com/user-attachments/assets/f9b3d49a-becb-4020-9970-ea2cc47e6cd9)
+
+
+
