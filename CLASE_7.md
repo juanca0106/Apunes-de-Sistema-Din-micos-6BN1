@@ -43,5 +43,15 @@ donde:
 
 ![image](https://github.com/user-attachments/assets/f9b3d49a-becb-4020-9970-ea2cc47e6cd9)
 
+* 1: Aplicamos transformada de Laplace 
+
+![image](https://github.com/user-attachments/assets/7c63f985-39d7-4161-be82-e1a7716631dc)
+
+recordando que: la tranformada de la derivada 
+
+![image](https://github.com/user-attachments/assets/45c88648-be7e-4135-a9ec-b80ed4b313a0)
+
+
+
 
 
