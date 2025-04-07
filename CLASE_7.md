@@ -124,19 +124,19 @@ recordando que:tranformada de derivadas.
 
     ![image](https://github.com/user-attachments/assets/fc871b90-dfb9-4f6a-9e7d-33ec8748b6f3)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
+  * 4. Aplicamos la transformada inversa de Laplace
+       Usamos:: 
 
-      * 4. Aplicamos la transformada inversa de Laplace 
+![image](https://github.com/user-attachments/assets/78098220-e90a-4501-bd71-93ffbf77f6ee)
+
+* Entonces: Esta seri la solucion final 
+
+  ![image](https://github.com/user-attachments/assets/a3293d01-453a-4b08-b8d9-d29dc5d22bd9)
+
+
       
-      * recordar: 
-      ![image](https://github.com/user-attachments/assets/78098220-e90a-4501-bd71-93ffbf77f6ee)
       
 
-       ![image](https://github.com/user-attachments/assets/378e65a2-d721-4eb4-91f8-bc4831c5df63)
-
-       * solucion final 
-
-![image](https://github.com/user-attachments/assets/843ad351-64db-4770-8c7c-2d82270e7322)
 
 
 
