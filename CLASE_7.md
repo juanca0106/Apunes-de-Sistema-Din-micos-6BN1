@@ -137,6 +137,13 @@ recordando que:tranformada de derivadas.
   # codigo del ejemplo 1
 
 
+  ![image](https://github.com/user-attachments/assets/234ca32c-ad5b-403e-b9c0-b154e7c60992)
+
+
+* solucion analitica
+
+  ![image](https://github.com/user-attachments/assets/3fcc35c5-378f-460c-8802-9d9ae1999f91)
+
 
 
       
