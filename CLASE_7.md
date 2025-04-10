@@ -61,55 +61,57 @@ recordando que:tranformada de derivadas.
 
   ![image](https://github.com/user-attachments/assets/2c9de97a-72f9-43c1-970d-a8311f04171b)
 
-  * 4: Despejamos X(s)
+* 4: Despejamos X(s)
 
     ![image](https://github.com/user-attachments/assets/ecc3730f-d8ee-4c30-b6f3-e29974490eb0)
 
-  * 5: resolvemos para implementar tranformada de laplace
-    * 1. Separar en fracciones parciales:
+* 5: resolvemos para implementar tranformada de laplace
+    * 5.1. Separar en fracciones parciales:
 
          ![image](https://github.com/user-attachments/assets/58879c6c-2614-4bdf-a3c4-3f9d6960cc0e)
 
-    * 2. Primera parte:
+    * 5.2. Primera parte:
 
          ![image](https://github.com/user-attachments/assets/0b723156-2ba5-4149-99c6-70e35f858624)
 
-         Esta se resuelve con fracciones parciales. Sea:
+        * Esta se resuelve con fracciones parciales. Sea:
     
-    * ![image](https://github.com/user-attachments/assets/ca3fb782-2590-4a53-8fd2-9f755e2a5129)
+     ![image](https://github.com/user-attachments/assets/ca3fb782-2590-4a53-8fd2-9f755e2a5129)
    
-    * Multiplicamos todo por :  ![image](https://github.com/user-attachments/assets/bbf775cb-6382-4e7b-bbfe-72535d7efc23)
+    * 5.3. Multiplicamos todo por :  ![image](https://github.com/user-attachments/assets/bbf775cb-6382-4e7b-bbfe-72535d7efc23)
    
       ![image](https://github.com/user-attachments/assets/49c9e6a9-b612-4a9d-ae29-0b4f0bd445fb)
 
-     * Expandimos:
+    * 5.4 Expandimos:
 
-       ![image](https://github.com/user-attachments/assets/2fc024e9-63a7-4deb-97f8-8c543c5820f9)
+  ![image](https://github.com/user-attachments/assets/2fc024e9-63a7-4deb-97f8-8c543c5820f9)
 
 
-    * Juntamos todo:
+    * 5.5 Juntamos todo:
 
       ![image](https://github.com/user-attachments/assets/931665e1-f774-4cc0-bc63-441764bac4a2)
 
-    *Agrupamos: 
+  * 5.6. Agrupamos:
 
-    ![image](https://github.com/user-attachments/assets/9b792c99-f7dd-4082-b380-d2e65b1e93ce)
+     ![image](https://github.com/user-attachments/assets/9b792c99-f7dd-4082-b380-d2e65b1e93ce)
 
-     * Ahora:
+   * Ahora:
 
        ![image](https://github.com/user-attachments/assets/eb1ca958-471e-4683-8e61-f4216346a37b)
 
-    * Entonces:
+  * 5.7. Entonces:
 
       ![image](https://github.com/user-attachments/assets/bd5124b8-27f4-4945-ab7d-2527c6f063e5)
 
-     * 3. segunda parte :
+* 6: segunda parte:
 
-           ![image](https://github.com/user-attachments/assets/f5c3ccaa-5fd4-4189-b22f-e48b424cc096)
+   ![image](https://github.com/user-attachments/assets/f5c3ccaa-5fd4-4189-b22f-e48b424cc096)
 
-          *Esto lo podemos separar directamente:
+   * Esto lo podemos separar directamente:
 
-          ![image](https://github.com/user-attachments/assets/c5daf2b0-0334-41fa-9bce-5710d328a6e3)
+    ![image](https://github.com/user-attachments/assets/c5daf2b0-0334-41fa-9bce-5710d328a6e3)
+       
+
 
   -------------------------------------------------------------------------------------------------------------------------------------------        
     🧠 Ahora sumamos todo:
@@ -143,6 +145,19 @@ recordando que:tranformada de derivadas.
 * solucion analitica
 
   ![image](https://github.com/user-attachments/assets/3fcc35c5-378f-460c-8802-9d9ae1999f91)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+💡 Ejemplo 2 :  
+
+![image](https://github.com/user-attachments/assets/05af1cda-2a2b-44e0-9f37-4b6950d0599b)
+
+* 1. Aplicamos la Transformada de Laplace
+
+     ![image](https://github.com/user-attachments/assets/0c1ca55f-0584-43fb-9d97-cce5b7b726b1)
+
+![image](https://github.com/user-attachments/assets/df6f5d05-d11e-471f-91ca-678ecafb8c37)
 
 
 
