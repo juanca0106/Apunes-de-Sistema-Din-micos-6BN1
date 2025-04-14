@@ -218,8 +218,15 @@ entonces:
 **ejercicio 2**
 
 ![image](https://github.com/user-attachments/assets/5395db1f-1b51-44ce-aa3d-15bf4f9c43e9)
+----
+**📌 Conclusiones**
+* Las ecuaciones diferenciales son fundamentales para modelar sistemas que cambian con el tiempo en distintas áreas del conocimiento.
 
+* Existen métodos analíticos y numéricos que permiten resolver estas ecuaciones según sus características.
 
+* La solución de una ecuación diferencial ayuda a predecir y entender el comportamiento de un sistema real.
+
+* Comprender estas herramientas es clave para analizar y controlar sistemas dinámicos de manera eficiente.
 
 
 
