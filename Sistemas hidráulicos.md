@@ -123,6 +123,11 @@ R_1 A_1 \frac{dq_1}{dt} = q_i - q_1
 $$
 
 el cambio en el flujo de salida (q1) esta determinado por la diferencia entre el flujo que entra al tanque y el flujo que sale. 
+----------------------------
+### 💡 Ejercicio 1
+
+![image](https://github.com/user-attachments/assets/60ae6e66-78ae-4775-9a32-8e0c7311e243)
+
 
 
 
