@@ -48,7 +48,9 @@ Si el área del tanque es constante (A), el volumen es V=Ah, y se puede expresar
 * ℎ1: 𝑁𝑖𝑣𝑒𝑙 𝑑𝑒 𝑙í𝑞𝑢𝑖𝑑𝑜 𝑒𝑛 𝑒𝑙 𝑡𝑎𝑛𝑞𝑢e
 
  ## modelo de un tanque 
+**Flujo de salida del tanque**
 
 <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=q_1 = \frac{h_1}{r_1}"><img src="http://www.alciro.org/cgi/tex.cgi?q_1 = \frac{h_1}{r_1}" title="q_1 = \frac{h_1}{r_1}" border="0" /></a>
 
 esta ecuacion es analoga a la ley de ohm en electricidad: el flujo es proporcional a la "presion" cuanto mas alto este el nivel del lquidomayor sera el flujo de salida 
+
