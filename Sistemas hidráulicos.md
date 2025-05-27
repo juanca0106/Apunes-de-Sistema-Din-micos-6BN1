@@ -54,3 +54,42 @@ Si el área del tanque es constante (A), el volumen es V=Ah, y se puede expresar
 
 esta ecuacion es analoga a la ley de ohm en electricidad: el flujo es proporcional a la "presion" cuanto mas alto este el nivel del lquidomayor sera el flujo de salida 
 
+**Intercambio de energía**
+
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)"><img src="http://www.alciro.org/cgi/tex.cgi?\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)" title="\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)" border="0" /></a>
+
+donde: 
+
+* el area tranversal del tanque es:
+  
+  <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=A_{1}"><img src="http://www.alciro.org/cgi/tex.cgi?A_{1}" title="A_{1}" border="0" /></a>
+
+* variacion de altura del liquido con respecto al tiempo es:
+
+  <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\frac{dh_1}{dt}"><img src="http://www.alciro.org/cgi/tex.cgi?\frac{dh_1}{dt}" title="\frac{dh_1}{dt}" border="0" /></a>
+
+* el flujo de etrada del tanque es:
+  
+  <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=q_{i}"><img src="http://www.alciro.org/cgi/tex.cgi?q_{i}" title="q_{i}" border="0" /></a>
+
+* el flujo de salida del tanque es:
+
+  <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=q_{1}"><img src="http://www.alciro.org/cgi/tex.cgi?q_{1}" title="q_{1}" border="0" /></a>
+
+  
+ ## Modelo 𝑞𝑖 como entrada y ℎ1 como salida
+
+ **ecuaciones**
+
+* <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=q_1 = \frac{h_1}{r_1}"><img src="http://www.alciro.org/cgi/tex.cgi?q_1 = \frac{h_1}{r_1}" title="q_1 = \frac{h_1}{r_1}" border="0" /></a> 
+
+*  <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)"><img src="http://www.alciro.org/cgi/tex.cgi?\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)" title="\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)" border="0" /></a>
+
+**remplazamos**
+
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=A_1 \frac{dh_1}{dt} = q_i - \frac{h_1}{R_1}"><img src="http://www.alciro.org/cgi/tex.cgi?A_1\frac{dh_1}{dt} = q_i - \frac{h_1}{R_1}" title="A_1 \frac{dh_1}{dt} = q_i - \frac{h_1}{R_1}" border="0" /></a>
+
+esta ecuacion de primer orden describe como responder el nivel liquido (h1) ante el cambio de flujo de entrada (qi) 
+
+
+  
