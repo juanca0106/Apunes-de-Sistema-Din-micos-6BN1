@@ -1,5 +1,5 @@
 # CORTE 3 
-## clase de Sistemas de tanques
+## clase de Función de transferencia
 ### 📅 **Curso:** sistemas dinamicos 
 ### 👨‍🏫 **Profesor:** Ing. Jorge Eduardo Cote Ballesteros
 ### 🧑‍🎓 **Semestre:** Sexto (2025)
