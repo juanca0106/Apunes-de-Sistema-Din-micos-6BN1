@@ -3,7 +3,7 @@
 ### 📅 **Curso:** sistemas dinamicos 
 ### 👨‍🏫 **Profesor:** Ing. Jorge Eduardo Cote Ballesteros
 ### 🧑‍🎓 **Semestre:** Sexto (2025)
-### 🧑‍🎓 ** estudiantes** juan camilo cruz quintana,daniel corredor peña,Joan Sebastian Rojas.
+### 🧑‍🎓 **estudiantes** juan camilo cruz quintana,daniel corredor peña,Joan Sebastian Rojas**
 ------------------------------------------------------------------------
 >* 🔑 **Sistemas de tanques**:
 En sistemas industrials de tanques es deseable mantener flujo o nivel constante
@@ -50,13 +50,17 @@ Si el área del tanque es constante (A), el volumen es V=Ah, y se puede expresar
  ## modelo de un tanque 
 **Flujo de salida del tanque**
 
-<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=q_1 = \frac{h_1}{r_1}"><img src="http://www.alciro.org/cgi/tex.cgi?q_1 = \frac{h_1}{r_1}" title="q_1 = \frac{h_1}{r_1}" border="0" /></a>
+$$
+q_1 = \frac{h_1}{r_1}
+$$
 
 esta ecuacion es analoga a la ley de ohm en electricidad: el flujo es proporcional a la "presion" cuanto mas alto este el nivel del lquidomayor sera el flujo de salida 
 
 **Intercambio de energía**
 
-<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)"><img src="http://www.alciro.org/cgi/tex.cgi?\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)" title="\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)" border="0" /></a>
+$$
+A_1 \frac{dh_1}{dt} = q_i - q_1
+$$
 
 donde: 
 
@@ -102,7 +106,31 @@ esta ecuacion de primer orden describe como responder el nivel liquido (h1) ante
 
 **despejamos h1**
 
-<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=q_1%20R_1%20=%20h_1"><img src="http://www.alciro.org/cgi/tex.cgi?q_1%20R_1%20=%20h_1" title="q_1 R_1 = h_1" border="0" /></a>
+$$
+A_1 \frac{dh_1}{dt} = q_i - \frac{h_1}{R_1}
+$$
+
+el nivel del liquido tambien se puede representar de esa manera
+
+**remplazamos en la ecuacion**
+
+*  <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)"><img src="http://www.alciro.org/cgi/tex.cgi?\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)" title="\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)" border="0" /></a>
+
+eso quedaria como:
+
+$$
+R_1 A_1 \frac{dq_1}{dt} = q_i - q_1
+$$
+
+el cambio en el flujo de salida (q1) esta determinado por la diferencia entre el flujo que entra al tanque y el flujo que sale. 
+
+
+
+
+
+
+
+
 
 
   
