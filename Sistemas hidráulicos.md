@@ -107,7 +107,7 @@ esta ecuacion de primer orden describe como responder el nivel liquido (h1) ante
 **despejamos h1**
 
 $$
-A_1 \frac{dh_1}{dt} = q_i - \frac{h_1}{R_1}
+h_1 = q_1 R_1 
 $$
 
 el nivel del liquido tambien se puede representar de esa manera
@@ -124,16 +124,48 @@ $$
 
 el cambio en el flujo de salida (q1) esta determinado por la diferencia entre el flujo que entra al tanque y el flujo que sale. 
 ----------------------------
-### 💡 Ejercicio 1
+### 📚 Ejercicio 1
 
 ![image](https://github.com/user-attachments/assets/60ae6e66-78ae-4775-9a32-8e0c7311e243)
 
+**ecuaciones**
 
+$$
+q_1 = \frac{h_1}{r_1} , A_1 \frac{d h_1}{dt} = q_i - q_1
+$$
 
+**despejamos h1**
 
+$$
+h_1 = q_1 R_1
+$$
 
+**remplazamos en la ecuacion**
 
+*  <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)"><img src="http://www.alciro.org/cgi/tex.cgi?\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)" title="\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)" border="0" /></a>
 
+eso quedaria como:
+
+$$
+R_1 A_1 \frac{dq_1}{dt} = q_i - q_1
+$$
+
+para el ttanque 2 
+se aplican las mismas ecuaciones 
+
+**ecuaciones**
+
+$$
+q_2 = \frac{h_2}{r_2} , A_2 \frac{d h_2}{dt} = q_1 - q_2
+$$
+
+para esta ecuacion no ahi que despejar (h2) solo se remplaza (q2) directamente en la la otra ecuacion 
+
+**remplazamos**
+
+$$
+A_2 \frac{dq_2}{dt} = q_1 - \frac{ h_2}{r_2}
+$$
 
 
 
