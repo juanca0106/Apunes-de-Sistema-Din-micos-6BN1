@@ -91,5 +91,18 @@ donde:
 
 esta ecuacion de primer orden describe como responder el nivel liquido (h1) ante el cambio de flujo de entrada (qi) 
 
+## Modelo 𝑞𝑖 como entrada y 𝑞1 como salida
+
+ **ecuaciones**
+
+* <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=q_1 = \frac{h_1}{r_1}"><img src="http://www.alciro.org/cgi/tex.cgi?q_1 = \frac{h_1}{r_1}" title="q_1 = \frac{h_1}{r_1}" border="0" /></a> 
+
+*  <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)"><img src="http://www.alciro.org/cgi/tex.cgi?\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)" title="\( A_1 \frac{dh_1}{dt} = q_i - q_1 \)" border="0" /></a>
+
+
+**despejamos h1**
+
+<a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=q_1%20R_1%20=%20h_1"><img src="http://www.alciro.org/cgi/tex.cgi?q_1%20R_1%20=%20h_1" title="q_1 R_1 = h_1" border="0" /></a>
+
 
   
